@@ -1,0 +1,6 @@
+rplidar
+# smbus
+python-socketio
+eventlet
+
+# pip install -r requirements.txt -v
